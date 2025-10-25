@@ -1,10 +1,10 @@
-#🧾 Project Title: RideWise-Analytics
+# RideWise-Analytics
 End-to-end data analytics project for OLA’s ride-booking operations — from SQL-based data cleaning and KPI calculations to interactive Power BI dashboards highlighting revenue streams, customer insights, and driver performance.
-📘 Project Overview
+# Project Overview
 This project focuses on analyzing ride-booking data from OLA, a popular ride-hailing platform, to uncover meaningful insights about rides, customers, drivers, and payments.
 The goal is to understand how OLA’s business is performing and identify areas for improvement using data analysis and visualization tools.
 ________________________________________
-🎯 Objective
+# 🎯 Objective
 To use SQL and Power BI to:
 •	Track ride volumes and trends
 •	Analyze driver and vehicle performance
@@ -12,7 +12,7 @@ To use SQL and Power BI to:
 •	Examine revenue and payment methods
 •	Identify top customers and areas of operational improvement
 ________________________________________
-🧠 Project Explanation (Simplified for Beginners)
+# 🧠 Project Explanation 
 1.	Data Collection:
 The project starts with a dataset containing information about OLA rides — including ride IDs, dates, customers, drivers, vehicle types, distances, fares, and payment modes.
 2.	Data Analysis using SQL:
@@ -39,18 +39,18 @@ o	Track performance of drivers
 o	Analyze customer loyalty and satisfaction patterns
 o	Monitor revenue growth and preferred payment modes
 ________________________________________
-🔍 Tools & Technologies Used
+# 🔍 Tools & Technologies Used
 •	SQL: For querying, cleaning, and analyzing raw ride data
 •	Power BI: For building interactive dashboards and visual reports
 •	Excel/CSV: For initial data handling (optional)
 ________________________________________
-📈 Key Outcomes
+# 📈 Key Outcomes
 •	Improved understanding of ride demand and revenue distribution
 •	Identified top-performing drivers and loyal customers
 •	Created an interactive Power BI dashboard for real-time decision-making
 •	Demonstrated how data-driven insights can help optimize OLA’s services
 ________________________________________
-💡 Why This Project Matters
+# 💡 Why This Project Matters
 This project showcases the complete data analytics workflow — from raw data to actionable insights — using real-world business data.
 It’s a perfect example of how companies like OLA use data to make smarter business decisions and improve customer satisfaction.
 ________________________________________
